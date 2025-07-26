@@ -20,6 +20,13 @@ The project was developed as part of an academic assignment in database systems.
 
 ---
 
+##  Technologies Used
+
+- **MySQL** – Relational database system
+- **MySQL Workbench** – Used for writing and executing SQL scripts
+- **dbdiagram.io** – For visualizing the ERD (optional)
+
+
 ##  Database Structure
 
 The database is named: `restoran_zanjirei`
